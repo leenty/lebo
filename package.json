@@ -1,0 +1,22 @@
+{
+  "name": "lebo",
+  "version": "1.0.0",
+  "description": "blog NPM command package",
+  "main": "index.js",
+  "scripts": {
+    "test": "lebo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leenty/lebo.git"
+  },
+  "keywords": [
+    "lebo"
+  ],
+  "author": "leenty@qq.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leenty/lebo/issues"
+  },
+  "homepage": "https://github.com/leenty/lebo#readme"
+}
