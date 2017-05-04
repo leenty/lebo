@@ -18,5 +18,12 @@
   "bugs": {
     "url": "https://github.com/leenty/lebo/issues"
   },
-  "homepage": "https://github.com/leenty/lebo#readme"
+  "homepage": "https://github.com/leenty/lebo#readme",
+  "bin": {
+    "lebo": "./bin/cli"
+  },
+  "dependencies": {
+    "commander": "^2.9.0",
+    "mkdirp": "^0.5.1"
+  }
 }
