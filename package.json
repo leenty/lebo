@@ -24,6 +24,8 @@
   },
   "dependencies": {
     "commander": "^2.9.0",
-    "mkdirp": "^0.5.1"
+    "download-git-repo": "^1.0.0",
+    "mkdirp": "^0.5.1",
+    "ora": "^1.2.0"
   }
 }

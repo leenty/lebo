@@ -21,6 +21,13 @@ git clone git@github.com:leenty/vue2.git
 npm i
 ```
 > 开启
+```sh
+npm run dev
+```
+> 编译打包
+```sh
+lebo article -r && npm run build
+```
 
 ### 命令
 > 使用`lebo -h`查看帮助
