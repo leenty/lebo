@@ -2,6 +2,7 @@
   "name": "lebo",
   "version": "1.0.0",
   "description": "blog NPM command package",
+  "author": "leenty@qq.com",
   "main": "index.js",
   "scripts": {
     "test": "lebo"
@@ -13,7 +14,6 @@
   "keywords": [
     "lebo"
   ],
-  "author": "leenty@qq.com",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/leenty/lebo/issues"
@@ -27,5 +27,6 @@
     "download-git-repo": "^1.0.0",
     "mkdirp": "^0.5.1",
     "ora": "^1.2.0"
-  }
+  },
+  "devDependencies": {}
 }
