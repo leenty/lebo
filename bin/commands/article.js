@@ -3,6 +3,7 @@ const Article = require('../../lib/article')
 module.exports = function (program) {
   program
     .command('article')
+    .alias('a')
     .description('create article and generate article\'s route')
     .option('-r, --render', 'generate article\'s route')
     .option('-c, --create <article>', 'create a article named <article>')
